@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Dawit Dargie 👋
 
-<!--
-**dawitdargie/dawitdargie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Web Developer & Freelancer** based in Ethiopia.
 
-Here are some ideas to get you started:
+I build modern, clean, and functional web applications. Currently available for freelance and remote opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+- Frontend: HTML, CSS, JavaScript, React, Next.js, Typescript
+- Backend: Go(golang), Node.js, Express, Python
+- Tools: Git, GitHub, Docker, Vercel, Netlify
+
+### 📫 Connect with me
+- Portfolio: [https://dawitdargie.github.io](https://dawitdargie.github.io)
+- Email: dawitdargie2@gmail.com
+
+---
+
+*Currently redesigning my portfolio. More projects coming soon!*
