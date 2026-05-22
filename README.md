@@ -1,6 +1,6 @@
 # Dawit Dargie
 
-**Full Stack Web Developer & Backend Specialist** from Ethiopia 🇪🇹
+**Full Stack Developer & Backend Specialist** from Ethiopia 🇪🇹
 
 I build **scalable, modern, and high-performance** web applications and systems. Passionate about clean architecture, backend development, and delivering robust digital solutions that scale.
 
